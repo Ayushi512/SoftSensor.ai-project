@@ -1,2 +1,2 @@
-# SoftSensor.ai-Project
+# Project
 Created with CodeSandbox
